@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanghavrao
 - 👀 I’m interested in  data structures and machine learning algorithms in AI.
-- 🌱 I’m currently learning  data science with python.
+- 🌱 I’m recently completed the course data science with python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- through linkdin.
 - 😄 Pronouns: ...
